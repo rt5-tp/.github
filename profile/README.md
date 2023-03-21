@@ -1,4 +1,4 @@
-![SynaesthetiQ Banner Image](../YoutubeBanner.jpg "SynaesthetiQ")
+![SynaesthetiQ Banner Image](https://github.com/rt5-tp/.github/raw/main/YoutubeBanner.jpg "SynaesthetiQ")
 
 # SynaesthetiQ
 
