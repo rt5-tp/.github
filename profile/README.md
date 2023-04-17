@@ -39,14 +39,14 @@ As the project developed, a number of additional repositories were created to pr
 * [**Real-time Spectrogram**](https://github.com/rt5-tp/SynaesthetiQ-SpectrogramClass) - A more complex real-time visualisation method (incomplete)
 * [**Spectrogram Non-real-time Prototype**](https://github.com/rt5-tp/SpectroscopeProto) - A prototype real-time spectrogram visualisation method
 
-## Team
+## The Dream Team
 
 - [**Ross McKeown**](https://github.com/rossamck) 
 - [**Thomas Nordentoft**](https://github.com/nordwestt) 
 - [**Thomas Burnip**](https://github.com/TBurnip)
 - [**Neil Crawshaw**](https://github.com/Neil-A-C)
 
-## Social Media
+## Like and Subscribe
 
 [**Youtube**](https://www.youtube.com/@synaesthetiq)
 
