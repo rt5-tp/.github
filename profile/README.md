@@ -7,3 +7,13 @@ SynaesthetiQ is a music visualiser prototype using envelope following, frequency
 <div align="center">
     <img width="100%" src="https://github.com/rt5-tp/.github/blob/main/Full%20Data%20Flow%20Diagram.svg">
 </div>
+
+## Social Media
+
+[**Youtube**](https://www.youtube.com/@synaesthetiq)
+
+[**TikTok**](https://www.tiktok.com/@synaesthetiq)
+
+[**LinkedIn**](https://www.linkedin.com/company/synaesthetiq/)
+
+[**Instagram**](https://www.instagram.com/synaesthetiq/)
