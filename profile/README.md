@@ -18,7 +18,7 @@ The relationships between these submodules are handled by the [Visualiser](https
 
 ## Go with the Flow
 
-The overall flow of data through these submodules can be representatd by this diagram:
+The overall flow of data through these submodules can be represented by this diagram:
 
 <div align="center">
     <img width="100%" src="https://github.com/rt5-tp/.github/blob/main/Full%20Data%20Flow%20Diagram.svg">
