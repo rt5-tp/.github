@@ -2,5 +2,5 @@
 
 # SynaesthetiQ
 
-SynaesthetiQ adds another dimension to your experience of music. SynaesthetiQ connects to your home sound system and analyses songs in real-time to create mesmerising and tantalising visualisations. The colour and brightness of lights will be influenced by the full spectrum of sound.
+SynaesthetiQ is a music visualiser prototype using envelope following, frequency analysis and genre detection to create engaging visualisations of music in real-time. This project was started as part of a Real-time Embedded Programming undergraduate project at the University of Glasgow. These repositories include all of the code written during the project, as the prototype was developed, and for a demonstration.
 
